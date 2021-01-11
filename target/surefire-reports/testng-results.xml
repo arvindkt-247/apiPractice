@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18153" started-at="2020-11-29T04:56:21Z" finished-at="2020-11-29T04:56:40Z">
+    <groups>
+    </groups>
+    <test name="Create Order Test" duration-ms="18153" started-at="2020-11-29T04:56:21Z" finished-at="2020-11-29T04:56:40Z">
+      <class name="com.testCases.paypal.CreateOrderTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testCases.paypal.CreateOrderTest@6fb554cc]" name="setUp" is-config="true" duration-ms="3157" started-at="2020-11-29T04:56:18Z" finished-at="2020-11-29T04:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createOrder()[pri:0, instance:com.testCases.paypal.CreateOrderTest@6fb554cc]" name="createOrder" duration-ms="18117" started-at="2020-11-29T04:56:21Z" finished-at="2020-11-29T04:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrder -->
+      </class> <!-- com.testCases.paypal.CreateOrderTest -->
+    </test> <!-- Create Order Test -->
+  </suite> <!-- Suite -->
+</testng-results>
